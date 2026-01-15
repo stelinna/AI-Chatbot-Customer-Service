@@ -1,0 +1,111 @@
+conversations:
+- answer: 'Yes, we offer shipping! Shipping times vary depending on the destination
+    and method chosen: standard shipping usually takes 3-5 business days, and express
+    shipping takes 1-2 business days. We also provide international shipping to select
+    countries, with availability and costs calculated at checkout. For faster delivery,
+    expedited shipping options are available during checkout.'
+  question: do you do shipping
+- answer: You can track your order by logging into your account and navigating to
+    the 'Order History' section. There, you will find the tracking information for
+    your shipment.
+  question: where is my order
+- answer: To create an account, click on the 'Sign Up' button on the top right corner
+    of our website and follow the instructions to complete the registration process.
+  question: How can i create an account
+- question: how can i contact customer support
+  answer: You can contact our customer support team by phone at [phone number] or
+    by email at [email address]. Our team is available [working hours] to assist you
+    with any inquiries or issues you may have.
+- question: how to review a product
+  answer: To leave a product review, navigate to the product page on our website and
+    click on the 'Write a Review' button.  You can share your feedback and rating
+    based on your experience with the product.
+- question: can i order a product as a gift
+  answer: Yes, you can order a product as a gift and have it shipped directly to the
+    recipient. During the checkout process, you can enter the recipient's shipping
+    address.
+- question: my discount code is not working
+  answer: If your discount code is not working, please double-check the terms and
+    conditions associated with the code. If the issue persists, contact our customer
+    support team for assistance.
+- question: Do you have installation services
+  answer: Installation services are available for select products. Please check the
+    product description or contact our customer support team for more information
+    and to request installation services.
+- question: can i add a gift message
+  answer: Yes, you can add a gift message during the checkout process. There is usually
+    a section where you can enter your personalized message.
+- question: can i order a product that is comming soon
+  answer: Products listed as 'coming soon' are not available for immediate purchase.
+    Please sign up for notifications to be informed when the product becomes available.
+- question: how can i track my order
+  answer: You can track your order by logging into your account and navigating to
+    the 'Order History' section. There, you will find the tracking information for
+    your shipment.
+- question: can i cancel my order
+  answer: You can cancel your order if it has not been shipped yet. Please contact
+    our customer support team with your order details, and we will assist you with
+    the cancellation process.
+- question: do you offer expedited shipping
+  answer: Yes, we offer expedited shipping options for faster delivery. During the
+    checkout process, you can select the desired expedited shipping method.
+- question: can i order a product that is out of stock
+  answer: If a product is currently out of stock, you will usually see an option to
+    sign up for product notifications. This way, you will be alerted when the product
+    becomes available again.
+- question: do you offer international shipping
+  answer: Yes, we offer international shipping to select countries. The availability
+    and shipping costs will be calculated during the checkout process based on your
+    location.
+- question: what is your return policy
+  answer: Our return policy allows you to return products within 30 days of purchase
+    for a full refund, provided they are in their original condition and packaging.
+    Please refer to our Returns page for detailed instructions.
+- question: how do i check my order status
+  answer: You can track your order by logging into your account and navigating to
+    the 'Order History' section. There, you will find the tracking information for
+    your shipment.
+- question: can i modify or cancel an item i just ordered
+  answer: If you need to change or cancel an item in your order, please contact our
+    customer support team as soon as possible.  We will assist you with the necessary
+    steps.
+- question: i want to stop my order. Is that allowed
+  answer: You can cancel your order if it has not been shipped yet. Please contact
+    our customer support team with your order details, and we will assist you with
+    the cancellation process.
+- question: what ways can i pay for my order
+  answer: We accept major credit cards, debit cards, and PayPal as payment methods
+    for online orders
+- question: do you accept Paypal or credit cards
+  answer: We accept major credit cards, debit cards, and PayPal as payment methods
+    for online orders
+- question: How long will it take for my package to arrive
+  answer: Shipping times vary depending on the destination and the shipping method
+    chosen. Standard shipping usually takes 3-5 business days, while express shipping
+    can take 1-2 business days.
+- question: can i change my delivery address
+  answer: If you need to change your shipping address, please contact our customer
+    support team as soon as possible. We will do our best to update the address if
+    the order has not been shipped yet.
+- question: can i return a product if i changed my mind
+  answer: Yes, you can return a product if you changed your mind. Please ensure the
+    product is in its original condition and packaging, and refer to our return policy
+    for instructions.
+- question: what if i received the wrong item
+  answer: If you receive the wrong item in your order, please contact our customer
+    support team immediately. We will arrange for the correct item to be shipped to
+    you and assist with returning the wrong item.
+- question: do i need a receipt to return something
+  answer: A receipt or proof of purchase is usually required for returns. Please refer
+    to our return policy or contact our customer support team for assistance.
+- question: can i use multiple promo codes at once
+  answer: Usually, only one promo code can be applied per order.During the checkout
+    process, enter the promo code in the designated field to apply the discount to
+    your order.
+- question: do i need an account to place an order
+  answer: Yes, you can place an order as a guest without creating an account. However,
+    creating an account offers benefits such as order tracking and easier future purchases.
+- question: whats included in your newsletter
+  answer: Our email newsletter provides updates on new product releases, exclusive
+    offers, and helpful tips related to our products. You can subscribe to our newsletter
+    on our website.
